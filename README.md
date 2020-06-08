@@ -1,3 +1,3 @@
 # test-
 test
-[I'm learning on LinkedIn.com](LinkedIn.com)
+[I'm learning on LinkedIn.com](https://www.linkedin.com)
